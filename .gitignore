@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff
+db.sqlite3
+/staticfiles/
+
+# Environment variables
+.env
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# MacOS and Linux
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Build artifacts
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Render deploy cache
+build/
